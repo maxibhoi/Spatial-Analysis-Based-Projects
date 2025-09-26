@@ -2,9 +2,11 @@ GIS Portfolio
 
 Welcome to my Geographic Information Systems (GIS) project repository. This collection showcases my expertise in spatial analysis, cartographic design, and geospatial programming across various domains including environmental science, urban planning, and public health.
 
+
 About Me
 
 GIS , Spatial and Data Analyst with expertise in geospatial analysis, remote sensing, and data visualization. Passionate about using location intelligence to solve real-world problems and support data-driven decision making.
+
 
 Technical Skills:
 
@@ -14,6 +16,7 @@ Databases: PostgreSQL/PostGIS
 Web Mapping: ArcGIS Online, OpenLayers
 Remote Sensing: Landsat, Sentinel, LiDAR processing
 
+
 Project Portfolio
 
 Environmental Analysis
@@ -21,6 +24,7 @@ Urban Planning & Transportation
 Public Health & Demographics
 Hydrology & Natural Resources
 Web Mapping Applications
+
 
 Methodologies & Techniques
 
@@ -52,6 +56,7 @@ USGS (National Map, Earth Explorer)
 NOAA/NWS (Weather, Climate Data)
 OpenStreetMap
 Local government open data portals
+
 
 Connect With Me
 
