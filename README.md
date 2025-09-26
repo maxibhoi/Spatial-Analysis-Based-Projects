@@ -10,59 +10,59 @@ GIS , Spatial and Data Analyst with expertise in geospatial analysis, remote sen
 
 ⚡ Technical Skills:
 
-Software: ArcGIS Pro, QGIS, Google Earth Engine, PostGIS
-Programming: Python, Html & Css, React, C, 
-Databases: PostgreSQL/PostGIS
-Web Mapping: ArcGIS Online, OpenLayers
-Remote Sensing: Landsat, Sentinel, LiDAR processing
+	Software: ArcGIS Pro, QGIS, Google Earth Engine, PostGIS
+	Programming: Python, Html & Css, React, C, 
+	Databases: PostgreSQL/PostGIS
+	Web Mapping: ArcGIS Online, OpenLayers
+	Remote Sensing: Landsat, Sentinel, LiDAR processing
 
 
 🧩 Project Portfolio
 
-Environmental Analysis
-Urban Planning & Transportation
-Public Health & Demographics
-Hydrology & Natural Resources
-Web Mapping Applications
+	Environmental Analysis
+	Urban Planning & Transportation
+	Public Health & Demographics
+	Hydrology & Natural Resources
+	Web Mapping Applications
 
 
 🛠️ Methodologies & Techniques
 
-Spatial Analysis:
+	Spatial Analysis:
+	
+	Hotspot analysis
+	Spatial modeling
+	Point pattern analysis
 
-Hotspot analysis
-Spatial modeling
-Point pattern analysis
+	Data Processing:
+	
+	Multi-temporal satellite image analysis
+	LiDAR point cloud processing
+	GPS data cleaning and validation
+	Coordinate system transformations
 
-Data Processing:
-
-Multi-temporal satellite image analysis
-LiDAR point cloud processing
-GPS data cleaning and validation
-Coordinate system transformations
-
-Cartographic Design:
-
-Professional map layout and symbolization
-Multi-scale map series production
-Interactive web map development
-3D visualization and terrain modeling
+	Cartographic Design:
+	
+	Professional map layout and symbolization
+	Multi-scale map series production
+	Interactive web map development
+	3D visualization and terrain modeling
 
 
 ⚙️ Data Sources I Work With:
 
-Census Bureau (ACS, Tiger/Line)
-USGS (National Map, Earth Explorer)
-NOAA/NWS (Weather, Climate Data)
-OpenStreetMap
-Local government open data portals
+	Census Bureau (ACS, Tiger/Line)
+	USGS (National Map, Earth Explorer)
+	NOAA/NWS (Weather, Climate Data)
+	OpenStreetMap
+	Local government open data portals
 
 
 ☎️ Connect With Me
 
-LinkedIn: www.linkedin.com/in/arthur-maxwell-4196-gg
-Email: maxwellarthur4196@gmail.com
-Telephone: +233502237108
+	LinkedIn: www.linkedin.com/in/arthur-maxwell-4196-gg
+	Email: maxwellarthur4196@gmail.com
+	Telephone: +233502237108
 
 
 📜 License
